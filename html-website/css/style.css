@@ -1,0 +1,47 @@
+/*Stylesheet for Personal Website*/
+
+
+body {
+    font-family:'Palatino', serif;
+  font-size: 18px;
+  color: rgb(48,49,49); /*dark gray*/
+  margin: 0;
+  padding: 0;
+}
+
+a {
+    color: rgb(48,49,49); /*dark gray*/
+    text-decoration:none;
+}
+
+a:hover {
+    color: rgb(211,223,221); /*light blue*/
+}
+
+a:visited {
+    color: rgb(245,213,196); /*light pink*/
+    text-decoration: none;
+}
+
+#navbar {
+    display: inline-block;
+    width: 300px;
+    height: 700px;
+    position:relative;
+    list-style-type: none;
+}
+
+#container {
+    margin: 0 auto 0 0;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+nav ul {
+    display: block;
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 40px;
+    line-height: 40px;
+}
+    
