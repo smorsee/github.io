@@ -8,6 +8,13 @@ body {
   padding: 0;
 }
 
+p {
+    font-family:'Palatino', serif;
+  font-size: 14px;
+  color: rgb(211,223,221); /*light blue*/
+}
+    
+
 a {
     color: rgb(48,49,49); /*dark gray*/
     text-decoration:none;
