@@ -1,0 +1,216 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shellymorse.com" resolutions="1x" timestamp="1464934243861">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_b--master.css" crc="529061526" ref="shadows:weddings:graphic-design:portraits:projection:portfolio:campaigning:public-relations:streets"/>
+    <file name="master_a-master.css" crc="445184049" ref="index:resume:contact:about-me"/>
+    <file name="shadows.css" crc="384225971" ref="shadows"/>
+    <file name="weddings.css" crc="4234642364" ref="weddings"/>
+    <file name="index.css" crc="100855356" ref="index"/>
+    <file name="graphic-design.css" crc="480530946" ref="graphic-design"/>
+    <file name="portraits.css" crc="4127914110" ref="portraits"/>
+    <file name="projection.css" crc="4151584269" ref="projection"/>
+    <file name="portfolio.css" crc="3911875328" ref="portfolio"/>
+    <file name="campaigning.css" crc="402698182" ref="campaigning"/>
+    <file name="resume.css" crc="102759766" ref="resume"/>
+    <file name="public-relations.css" crc="132412158" ref="public-relations"/>
+    <file name="contact.css" crc="67146857" ref="contact"/>
+    <file name="streets.css" crc="4105291714" ref="streets"/>
+    <file name="about-me.css" crc="494869662" ref="about-me"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact:tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="museutils.js" crc="3790713428" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact:tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact:tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact:tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact:tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact:tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="webpro.js" crc="329496574" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form_check.php" crc="3805695515" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form_throttle.php" crc="3802629389" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form_process.php" crc="54267062" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form-u2463.php" crc="142764917" ref="phone>contact"/>
+    <file name="museredirect.js" crc="71780213" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="form-u2219.php" crc="247790012" ref="tablet>contact"/>
+    <file name="form-u896.php" crc="4052860577" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="personalwebsitemaycolor-01-crop-u2340.png" crc="214179593" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2338-4.png" crc="194096890" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2339-4.png" crc="509560902" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact:tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u2359.png" crc="419937014" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2359-r.png" crc="106841609" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2356.png" crc="4086666010" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2356-r.png" crc="3916713565" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2368.png" crc="4100906619" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2368-r.png" crc="396891258" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2377.png" crc="114094559" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2377-r.png" crc="110789740" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2345.png" crc="385783333" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="u2345-r.png" crc="4084775248" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
+    <file name="personalwebsitemaycolor-01-crop-u2528.png" crc="326049086" ref="phone>index"/>
+    <file name="personalwebsitemaycolor-02-crop-u2521.png" crc="4267764579" ref="phone>about-me"/>
+    <file name="u2535-4.png" crc="3777268585" ref="phone>portfolio"/>
+    <file name="personalwebsitemaycolor-04-u2514.png" crc="4083827709" ref="phone>resume"/>
+    <file name="u2478-17.png" crc="3775706964" ref="phone>contact"/>
+    <file name="u2478-17-r.png" crc="174039896" ref="phone>contact"/>
+    <file name="u2478-17-m.png" crc="4087376994" ref="phone>contact"/>
+    <file name="u2478-17-fs.png" crc="450571855" ref="phone>contact"/>
+    <file name="personalwebsitemaycolor-01-crop-u2028.png" crc="123636132" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2027-4.png" crc="4208446712" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2030-4.png" crc="530762382" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2048.png" crc="49477836" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2048-r.png" crc="118463170" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2036.png" crc="4164570438" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2036-r.png" crc="394943077" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2043.png" crc="4223743485" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2043-r.png" crc="3887977370" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2064.png" crc="3867940744" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2064-r.png" crc="4039179673" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2056.png" crc="498215757" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="u2056-r.png" crc="3940942582" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact"/>
+    <file name="personalwebsitemaycolor-01-crop-u2186.png" crc="4144574631" ref="tablet>index"/>
+    <file name="personalwebsitemaycolor-02-crop-u2193.png" crc="313836705" ref="tablet>about-me"/>
+    <file name="personalwebsitemaycolor-11-u2161.png" crc="4279166696" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2152-4.png" crc="4269185025" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2153-4.png" crc="67791913" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2154-4.png" crc="4283805363" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2155-4.png" crc="146843058" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2156-4.png" crc="4285938335" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2157-4.png" crc="4020750855" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2158-4.png" crc="534269867" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2159-4.png" crc="4108087639" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="u2160-4.png" crc="302335770" ref="tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning"/>
+    <file name="personalwebsitemaycolor-03-crop-u2200.png" crc="3980014985" ref="tablet>portfolio"/>
+    <file name="personalwebsitemaycolor-06-crop-u2280.png" crc="3862673047" ref="tablet>weddings"/>
+    <file name="personalwebsitemaycolor-07-crop-u2287.png" crc="4248435715" ref="tablet>streets"/>
+    <file name="personalwebsitemaycolor-08-crop-u2294.png" crc="95148835" ref="tablet>shadows"/>
+    <file name="personalwebsitemaycolor-09-crop-u2301.png" crc="4241484945" ref="tablet>projection"/>
+    <file name="personalwebsitemaycolor-10-crop-u2308.png" crc="150299520" ref="tablet>portraits"/>
+    <file name="personalwebsitemaycolor-11-crop-u2315.png" crc="4235058103" ref="tablet>graphic-design"/>
+    <file name="personalwebsitemaycolor-12-crop-u2322.png" crc="3986763349" ref="tablet>public-relations"/>
+    <file name="personalwebsitemaycolor-13-crop-u2329.png" crc="273070843" ref="tablet>campaigning"/>
+    <file name="personalwebsitemaycolor-04-u2207.png" crc="3930200075" ref="tablet>resume"/>
+    <file name="u2214-4.png" crc="3985462808" ref="tablet>contact"/>
+    <file name="u2218-4.png" crc="4088741215" ref="tablet>contact"/>
+    <file name="u2222-17.png" crc="3775706964" ref="tablet>contact"/>
+    <file name="u2222-17-r.png" crc="174039896" ref="tablet>contact"/>
+    <file name="u2222-17-m.png" crc="4087376994" ref="tablet>contact"/>
+    <file name="u2222-17-fs.png" crc="450571855" ref="tablet>contact"/>
+    <file name="personalwebsitemaycolor-01-crop-u1458.png" crc="123636132" ref="index:contact:resume:about-me"/>
+    <file name="u1456-4.png" crc="4208446712" ref="index:contact:resume:about-me"/>
+    <file name="u1457-4.png" crc="530762382" ref="index:contact:resume:about-me"/>
+    <file name="u1492.png" crc="49477836" ref="index:contact:resume:about-me"/>
+    <file name="u1492-r.png" crc="118463170" ref="index:contact:resume:about-me"/>
+    <file name="u1515.png" crc="4164570438" ref="index:contact:resume:about-me"/>
+    <file name="u1515-r.png" crc="394943077" ref="index:contact:resume:about-me"/>
+    <file name="u1507.png" crc="4223743485" ref="index:contact:resume:about-me"/>
+    <file name="u1507-r.png" crc="3887977370" ref="index:contact:resume:about-me"/>
+    <file name="u1487.png" crc="3867940744" ref="index:contact:resume:about-me"/>
+    <file name="u1487-r.png" crc="4039179673" ref="index:contact:resume:about-me"/>
+    <file name="u1501.png" crc="498215757" ref="index:contact:resume:about-me"/>
+    <file name="u1501-r.png" crc="3940942582" ref="index:contact:resume:about-me"/>
+    <file name="personalwebsitemaycolor-01-crop-u1234.png" crc="4144574631" ref="index"/>
+    <file name="u947-4.png" crc="163920096" ref="contact"/>
+    <file name="u950-4.png" crc="3951360775" ref="contact"/>
+    <file name="u908-17.png" crc="3775706964" ref="contact"/>
+    <file name="u908-17-r.png" crc="174039896" ref="contact"/>
+    <file name="u908-17-m.png" crc="4087376994" ref="contact"/>
+    <file name="u908-17-fs.png" crc="450571855" ref="contact"/>
+    <file name="personalwebsitemaycolor-04-u1251.png" crc="4033350410" ref="resume"/>
+    <file name="personalwebsitemaycolor-01-crop-u1432.png" crc="123636132" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1431-4.png" crc="4208446712" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1430-4.png" crc="530762382" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u499.png" crc="49477836" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u499-r.png" crc="118463170" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u527.png" crc="4164570438" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u527-r.png" crc="394943077" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u507.png" crc="4223743485" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u507-r.png" crc="3887977370" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u512.png" crc="3867940744" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u512-r.png" crc="4039179673" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u522.png" crc="498215757" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u522-r.png" crc="3940942582" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="personalwebsitemaycolor-11-crop-u1207.png" crc="489577819" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1085-4.png" crc="3823917109" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1086-4.png" crc="3836130495" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1087-4.png" crc="4044869586" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1088-4.png" crc="257773256" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1089-4.png" crc="383615969" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1090-4.png" crc="4240814055" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1091-4.png" crc="3804414111" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1092-4.png" crc="4159675856" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="u1093-4.png" crc="3806267233" ref="portfolio:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
+    <file name="personalwebsitemaycolor-03-crop-u1262.png" crc="394772323" ref="portfolio"/>
+    <file name="personalwebsitemaycolor-02-crop-u1241.png" crc="4139483680" ref="about-me"/>
+    <file name="personalwebsitemaycolor-06-crop-u1272.png" crc="3853784364" ref="weddings"/>
+    <file name="personalwebsitemaycolor-07-crop-u1282.png" crc="4077151155" ref="streets"/>
+    <file name="personalwebsitemaycolor-08-crop-u1292.png" crc="4283709970" ref="shadows"/>
+    <file name="personalwebsitemaycolor-09-crop-u1302.png" crc="235540832" ref="projection"/>
+    <file name="personalwebsitemaycolor-10-crop-u1312.png" crc="43738937" ref="portraits"/>
+    <file name="personalwebsitemaycolor-11-crop-u1322.png" crc="60981325" ref="graphic-design"/>
+    <file name="personalwebsitemaycolor-12-crop-u1329.png" crc="207570902" ref="public-relations"/>
+    <file name="personalwebsitemaycolor-13-crop-u1339.png" crc="289747594" ref="campaigning"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3781621325" ref="tablet>portfolio:tablet>index:tablet>contact:tablet>streets:tablet>shadows:tablet>weddings:tablet>resume:tablet>portraits:tablet>campaigning:tablet>graphic-design:tablet>about-me:tablet>public-relations:tablet>projection"/>
+      <file name="master_b--master.css" crc="4275970158" ref="tablet>portfolio:tablet>streets:tablet>shadows:tablet>weddings:tablet>portraits:tablet>campaigning:tablet>graphic-design:tablet>public-relations:tablet>projection"/>
+      <file name="portfolio.css" crc="286498837" ref="tablet>portfolio"/>
+      <file name="index.css" crc="4238218166" ref="tablet>index"/>
+      <file name="contact.css" crc="3909992451" ref="tablet>contact"/>
+      <file name="streets.css" crc="273845065" ref="tablet>streets"/>
+      <file name="shadows.css" crc="58863436" ref="tablet>shadows"/>
+      <file name="weddings.css" crc="3895909959" ref="tablet>weddings"/>
+      <file name="resume.css" crc="432323033" ref="tablet>resume"/>
+      <file name="portraits.css" crc="227556613" ref="tablet>portraits"/>
+      <file name="campaigning.css" crc="164572754" ref="tablet>campaigning"/>
+      <file name="graphic-design.css" crc="390130604" ref="tablet>graphic-design"/>
+      <file name="about-me.css" crc="460276787" ref="tablet>about-me"/>
+      <file name="public-relations.css" crc="4113823522" ref="tablet>public-relations"/>
+      <file name="projection.css" crc="280701818" ref="tablet>projection"/>
+    </folder>
+    <file name="index.html" crc="4008734142" seo="true" mt="1464922866053" redirect="true"/>
+    <file name="about-me.html" crc="188320566" seo="true" mt="1464922912127" redirect="true"/>
+    <file name="portfolio.html" crc="310350421" seo="true" mt="1464922956307" redirect="true"/>
+    <file name="weddings.html" crc="69203011" seo="true" mt="1464924187521" redirect="true"/>
+    <file name="streets.html" crc="48378680" seo="true" mt="1464924187808" redirect="true"/>
+    <file name="shadows.html" crc="3925912975" seo="true" mt="1464924188058" redirect="true"/>
+    <file name="projection.html" crc="167058344" seo="true" mt="1464924188247" redirect="true"/>
+    <file name="portraits.html" crc="3787528956" seo="true" mt="1464924188501" redirect="true"/>
+    <file name="graphic-design.html" crc="103377720" seo="true" mt="1464924188713" redirect="true"/>
+    <file name="public-relations.html" crc="354798546" seo="true" mt="1464924188899" redirect="true"/>
+    <file name="campaigning.html" crc="481097108" seo="true" mt="1464924189133" redirect="true"/>
+    <file name="resume.html" crc="54078436" seo="true" mt="1464923025158" redirect="true"/>
+    <file name="contact.html" crc="4122873560" seo="true" mt="1464923154060" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="487678856" ref="phone>about-me:phone>index:phone>contact:phone>portfolio:phone>resume"/>
+      <file name="about-me.css" crc="4015251464" ref="phone>about-me"/>
+      <file name="index.css" crc="4285738071" ref="phone>index"/>
+      <file name="contact.css" crc="417886635" ref="phone>contact"/>
+      <file name="portfolio.css" crc="4233837779" ref="phone>portfolio"/>
+      <file name="resume.css" crc="3906652422" ref="phone>resume"/>
+    </folder>
+    <file name="index.html" crc="3860846102" seo="true" mt="1464924124590" redirect="true"/>
+    <file name="about-me.html" crc="4277624766" seo="true" mt="1464924080311" redirect="true"/>
+    <file name="portfolio.html" crc="249223316" seo="true" mt="1464924314086" redirect="true"/>
+    <file name="resume.html" crc="175796213" seo="true" mt="1464924036687" redirect="true"/>
+    <file name="contact.html" crc="4203237725" seo="true" mt="1464923968593" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4260678190" seo="true" mt="1464925048864" redirect="true"/>
+  <file name="contact.html" crc="906297" seo="true" mt="1464925048864" redirect="true"/>
+  <file name="resume.html" crc="84467825" seo="true" mt="1464925048864" redirect="true"/>
+  <file name="portfolio.html" crc="289096649" seo="true" mt="1464925002919" redirect="true"/>
+  <file name="about-me.html" crc="4030753899" seo="true" mt="1464925048864" redirect="true"/>
+  <file name="weddings.html" crc="4188328097" seo="true" mt="1464925002919" redirect="true"/>
+  <file name="streets.html" crc="3834772081" seo="true" mt="1464925002919" redirect="true"/>
+  <file name="shadows.html" crc="431130877" seo="true" mt="1464925002919" redirect="true"/>
+  <file name="projection.html" crc="4230453342" seo="true" mt="1464925002919" redirect="true"/>
+  <file name="portraits.html" crc="60389435" seo="true" mt="1464925002919" redirect="true"/>
+  <file name="graphic-design.html" crc="359037832" seo="true" mt="1464925002919" redirect="true"/>
+  <file name="public-relations.html" crc="264007177" seo="true" mt="1464925002919" redirect="true"/>
+  <file name="campaigning.html" crc="3968526695" seo="true" mt="1464925002919" redirect="true"/>
+</manifest>

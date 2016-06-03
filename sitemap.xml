@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://shellymorse.com/index.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://shellymorse.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/contact.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://shellymorse.com/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/contact.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/resume.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://shellymorse.com/phone/resume.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/resume.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/portfolio.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://shellymorse.com/phone/portfolio.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/portfolio.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/about-me.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://shellymorse.com/phone/about-me.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/about-me.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/weddings.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/weddings.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/streets.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/streets.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/shadows.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/shadows.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/projection.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/projection.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/portraits.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/portraits.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/graphic-design.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/graphic-design.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/public-relations.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/public-relations.html"/>
+  </url>
+  <url>
+    <loc>http://shellymorse.com/campaigning.html</loc>
+    <lastmod>2016-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shellymorse.com/tablet/campaigning.html"/>
+  </url>
+</urlset>
