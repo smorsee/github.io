@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shellymorse.com" resolutions="1x" timestamp="1465431335813">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shellymorse.com" resolutions="1x" timestamp="1465432568215">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_b--master.css" crc="427119866" ref="shadows:weddings:graphic-design:portraits:projection:portfolio:campaigning:public-relations:streets"/>
     <file name="master_a-master.css" crc="4266256425" ref="index:resume:contact:about-me"/>
     <file name="shadows.css" crc="316960447" ref="shadows"/>
     <file name="weddings.css" crc="4099147826" ref="weddings"/>
-    <file name="index.css" crc="121289513" ref="index"/>
+    <file name="index.css" crc="4218696047" ref="index"/>
     <file name="graphic-design.css" crc="276893209" ref="graphic-design"/>
     <file name="portraits.css" crc="15453630" ref="portraits"/>
     <file name="projection.css" crc="4067880477" ref="projection"/>
@@ -111,7 +111,6 @@
     <file name="u1487-r.png" crc="4039179673" ref="index:contact:resume:about-me"/>
     <file name="u1501.png" crc="498215757" ref="index:contact:resume:about-me"/>
     <file name="u1501-r.png" crc="3940942582" ref="index:contact:resume:about-me"/>
-    <file name="personalwebsitemaycolor-01-crop-u1234.png" crc="4030687379" ref="index"/>
     <file name="u947-4.png" crc="163920096" ref="contact"/>
     <file name="u950-4.png" crc="3951360775" ref="contact"/>
     <file name="u908-17.png" crc="3775706964" ref="contact"/>
@@ -152,6 +151,7 @@
     <file name="personalwebsitemaycolor-11-crop-u1322.png" crc="516548812" ref="graphic-design"/>
     <file name="personalwebsitemaycolor-12-crop-u1329.png" crc="4197820502" ref="public-relations"/>
     <file name="personalwebsitemaycolor-13-crop-u1339.png" crc="383825345" ref="campaigning"/>
+    <file name="replace graphic.jpg" crc="4129875122" seo="true" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -200,7 +200,7 @@
     <file name="resume.html" crc="175796213" seo="true" mt="1464924036687" redirect="true"/>
     <file name="contact.html" crc="4203237725" seo="true" mt="1464923968593" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3969952137" seo="true" mt="1465427486801" redirect="true"/>
+  <file name="index.html" crc="108972441" seo="true" mt="1465432545208" redirect="true"/>
   <file name="contact.html" crc="419088117" seo="true" mt="1465427705590" redirect="true"/>
   <file name="resume.html" crc="3851854305" seo="true" mt="1465427461144" redirect="true"/>
   <file name="portfolio.html" crc="271345227" seo="true" mt="1465428114379" redirect="true"/>
