@@ -1,13 +1,13 @@
 .version.resume /* version checker */
 {
-	color: #000006;
-	background-color: #1FFD56;
+	color: #0000E2;
+	background-color: #EF4219;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 1300px;
+	min-height: 1473px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -18,10 +18,23 @@
 	margin-right: auto;
 }
 
-#page_position_content
+#u401
 {
-	padding-top: 11px;
-	width: 100%;
+	z-index: 2;
+	width: 1678px;
+	height: 65px;
+	margin-bottom: -22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1430px;
+}
+
+#pu1474
+{
+	margin-right: -10000px;
+	margin-top: 11px;
+	width: 51.61%;
+	margin-left: 24.2%;
 }
 
 #u1474
@@ -30,7 +43,7 @@
 	width: 563px;
 	position: relative;
 	margin-left: 50%;
-	left: -262px;
+	left: -261.99999999999994px;
 }
 
 #pu1458
@@ -76,6 +89,7 @@
 {
 	margin-top: 40px;
 	width: 100%;
+	margin-left: 0%;
 }
 
 #menuu1480
@@ -85,7 +99,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-left: 50%;
-	left: -433px;
+	left: -432.99999999999994px;
 }
 
 #u1488
@@ -290,37 +304,13 @@
 #u1251
 {
 	z-index: 40;
-	display: block;
-	vertical-align: top;
+	width: 844px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 44px;
-	width: 50.24%;
-	left: 24.86%;
-}
-
-#u401
-{
-	z-index: 2;
-	height: 133px;
-}
-
-.js body
-{
-	visibility: hidden;
-}
-
-.js body.initialized
-{
-	visibility: visible;
-}
-
-#u401-bw
-{
-	z-index: 2;
-	margin-top: -2px;
-	margin-bottom: -2px;
-	height: 133px;
+	margin-top: 51px;
+	margin-left: 50%;
+	left: -421.99999999999994px;
 }
 
 #muse_css_mq,.html
@@ -332,5 +322,6 @@ body
 {
 	position: relative;
 	min-width: 960px;
+	padding-bottom: 20px;
 }
 
