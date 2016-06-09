@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shellymorse.com" resolutions="1x" timestamp="1465433132909">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shellymorse.com" resolutions="1x" timestamp="1465434325791">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_b--master.css" crc="427119866" ref="shadows:weddings:graphic-design:portraits:projection:portfolio:campaigning:public-relations:streets"/>
@@ -13,7 +13,7 @@
     <file name="campaigning.css" crc="3880991945" ref="campaigning"/>
     <file name="resume.css" crc="3807330841" ref="resume"/>
     <file name="public-relations.css" crc="3933651136" ref="public-relations"/>
-    <file name="contact.css" crc="4202744178" ref="contact"/>
+    <file name="contact.css" crc="507066265" ref="contact"/>
     <file name="streets.css" crc="204510921" ref="streets"/>
     <file name="about-me.css" crc="335584243" ref="about-me"/>
   </folder>
@@ -32,7 +32,7 @@
     <file name="form-u2463.php" crc="142764917" ref="phone>contact"/>
     <file name="museredirect.js" crc="71780213" ref="tablet>index:tablet>about-me:tablet>portfolio:tablet>weddings:tablet>streets:tablet>shadows:tablet>projection:tablet>portraits:tablet>graphic-design:tablet>public-relations:tablet>campaigning:tablet>resume:tablet>contact:index:contact:resume:portfolio:about-me:weddings:streets:shadows:projection:portraits:graphic-design:public-relations:campaigning"/>
     <file name="form-u2219.php" crc="247790012" ref="tablet>contact"/>
-    <file name="form-u896.php" crc="4052860577" ref="contact"/>
+    <file name="form-u896.php" crc="3921774317" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="personalwebsitemaycolor-01-crop-u2340.png" crc="214179593" ref="phone>index:phone>about-me:phone>portfolio:phone>resume:phone>contact"/>
@@ -200,7 +200,7 @@
     <file name="contact.html" crc="4203237725" seo="true" mt="1464923968593" redirect="true"/>
   </folder>
   <file name="index.html" crc="108972441" seo="true" mt="1465432545208" redirect="true"/>
-  <file name="contact.html" crc="328465258" seo="true" mt="1465432968002" redirect="true"/>
+  <file name="contact.html" crc="328465258" seo="true" mt="1465434132555" redirect="true"/>
   <file name="resume.html" crc="3851854305" seo="true" mt="1465427461144" redirect="true"/>
   <file name="portfolio.html" crc="271345227" seo="true" mt="1465428114379" redirect="true"/>
   <file name="about-me.html" crc="112931526" seo="true" mt="1465427758393" redirect="true"/>

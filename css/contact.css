@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000FA;
-	background-color: #80C972;
+	color: #00001E;
+	background-color: #393799;
 }
 
 #page
@@ -690,7 +690,7 @@
 #widgetu899
 {
 	z-index: 88;
-	width: 751px;
+	width: 749px;
 	height: 172px;
 	border-width: 0px;
 	border-color: transparent;
@@ -698,13 +698,14 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 84px;
+	left: -1px;
 }
 
 #widgetu899.fld-err-st
 {
 	background-color: transparent;
 	border-radius: 0px;
-	width: 751px;
+	width: 749px;
 	height: 172px;
 	min-height: 0px;
 	margin: 84px -10000px 0px 0px;
@@ -724,6 +725,7 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
+	left: 1px;
 }
 
 #widgetu903.fld-err-st #u905-4,#widgetu899.fld-err-st #u902-4
@@ -759,7 +761,6 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 19px;
-	left: 2px;
 }
 
 #widgetu899.non-empty-st #u900-4
