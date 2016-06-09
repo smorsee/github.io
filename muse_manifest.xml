@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shellymorse.com" resolutions="1x" timestamp="1465433017745">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shellymorse.com" resolutions="1x" timestamp="1465433132909">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_b--master.css" crc="427119866" ref="shadows:weddings:graphic-design:portraits:projection:portfolio:campaigning:public-relations:streets"/>
